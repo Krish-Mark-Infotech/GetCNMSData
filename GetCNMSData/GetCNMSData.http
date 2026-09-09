@@ -1,0 +1,6 @@
+@GetCNMSData_HostAddress = http://localhost:5065
+
+GET {{GetCNMSData_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
